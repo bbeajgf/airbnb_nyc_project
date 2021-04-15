@@ -1,7 +1,8 @@
 # airbnb_nyc_project
 Airbnb in NYC Data Analytics Project
 
-Airbnb is one of lodging company service concerning in homestay rentals for vacation or tourism activity established in 2008 and based in San Fransisco, California. Airbnb does not own any of the property; instead, it profits by receiving commission from each booking. Airbnb can be accessed easily either in thw website or the official mobile apps. We can find the best listing based on our preferences everywhere we will visit and sort it as our budget and accomodation preferences.![Airbnb-NYC-law](https://user-images.githubusercontent.com/76248569/114740486-16d8b480-9d74-11eb-8d1c-8aa6919c98a0.jpg)
+Airbnb is one of lodging company service concerning in homestay rentals for vacation or tourism activity established in 2008 and based in San Fransisco, California. Airbnb does not own any of the property; instead, it profits by receiving commission from each booking. Airbnb can be accessed easily either in thw website or the official mobile apps. We can find the best listing based on our preferences everywhere we will visit and sort it as our budget and accomodation preferences.
+![Airbnb-NYC-law](https://user-images.githubusercontent.com/76248569/114740486-16d8b480-9d74-11eb-8d1c-8aa6919c98a0.jpg)
 
 
 In this analysis, I am going to do basic analysis based on the dataset of Airbnb NYC I got from Kaggle.com (dataset source: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data). This whole dataset describes all of listing and metrics in NYC, NY for 2019. It contains 16 columns and 48895 rows. The goal of Airbnb NYC Data Analytics is to get more insights as much as we want from the raw dataset!
